@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 /**
  * main - causes an infinite loop
  * Return: 0
- * Description:  Debugging to remove an infinite loop.
  */
 
 int main(void)
